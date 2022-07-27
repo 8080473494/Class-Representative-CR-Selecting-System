@@ -1,7 +1,7 @@
-# ONLINE-VOTING-SYSTEM-in-PHP-MYSQL
+# Class-Representative-CR-SYSTEM-in-PHP-MYSQL
 
 
 
-This system allows all registered users to vote for their favorite PROGRAMMING LANGUAGE.
+This system allows all registered users to vote to a perticular student from the group of students who are standing for election.
 In order to make a vote you have to register first and then login.
 
